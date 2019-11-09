@@ -6,6 +6,7 @@
 
 <p>3.<a href="https://github.com/fatihmehmetergin/Artificial_Intelligence/blob/master/Social_Network/Social%20Network.ipynb">Social Network</a></p>
 
+<p>4.<a href="https://github.com/fatihmehmetergin/Artificial_Intelligence/blob/master/Mall_Customers/Mall_Customers.ipynb">Mall_Customers</a></p>
 
 
 
