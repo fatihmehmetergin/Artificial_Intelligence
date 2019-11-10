@@ -1,6 +1,6 @@
 # Artificial_Intelligence
 
-<p>1.<a href="https://github.com/fatihmehmetergin/Artificial_Intelligence/RapidMiner.PNG">RapidMiner Example</a></p>
+<p>1.<a href="https://fatihmehmetergin.github.io/Artificial_Intelligence/RapidMiner.PNG">RapidMiner Example</a></p>
 
 <p>2.<a href="https://github.com/fatihmehmetergin/Artificial_Intelligence/blob/master/Mushrooms/zehirli_mantar.ipynb">Zehirli Mantar</a></p>
 
