@@ -10,7 +10,7 @@
 
 <p>5.<a href="https://github.com/fatihmehmetergin/Artificial_Intelligence/blob/master/Mall_Customers/Mall_Customers.ipynb">Mall Customers</a></p>
 
-<p>6.<a href="https://github.com/fatihmehmetergin/Artificial_Intelligence/blob/master/polynomial_regression/polynomial_regression.ipynb">Polynomial Regression</a></p>
+<p>6.<a href="https://github.com/fatihmehmetergin/Artificial_Intelligence/blob/master/polynomial_regression/polynomial_regression.ipynb">Polynomial Regression (Linear vs Polynomial example)</a></p>
 
 
 
