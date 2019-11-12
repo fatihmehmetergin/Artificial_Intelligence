@@ -12,7 +12,7 @@
 
 <p>6.<a href="https://github.com/fatihmehmetergin/Artificial_Intelligence/blob/master/polynomial_regression/polynomial_regression.ipynb">Polynomial Regression (Linear vs Polynomial example)</a></p>
 
-<p>7.<a href="https://github.com/fatihmehmetergin/Artificial_Intelligence/blob/master/Market_Optimisation/Market_Basket.ipynb">Market Optimisation (apriori) </a></p>
+<p>7.<a href="https://github.com/fatihmehmetergin/Artificial_Intelligence/blob/master/Market_Optimisation/Market_Basket.ipynb">Market Optimisation (Apriori) </a></p>
 
 
 
