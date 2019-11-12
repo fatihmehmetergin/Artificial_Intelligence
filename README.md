@@ -8,7 +8,7 @@
 
 <p>4.<a href="https://github.com/fatihmehmetergin/Artificial_Intelligence/blob/master/Social_Network/Social%20Network.ipynb">Social Network</a></p>
 
-<p>5.<a href="https://github.com/fatihmehmetergin/Artificial_Intelligence/blob/master/Mall_Customers/Mall_Customers.ipynb">Mall Customers</a></p>
+<p>5.<a href="https://github.com/fatihmehmetergin/Artificial_Intelligence/blob/master/Mall_Customers/Mall_Customers.ipynb">Mall Customers (K-means Algorithm)</a></p>
 
 <p>6.<a href="https://github.com/fatihmehmetergin/Artificial_Intelligence/blob/master/polynomial_regression/polynomial_regression.ipynb">Polynomial Regression (Linear vs Polynomial example)</a></p>
 
