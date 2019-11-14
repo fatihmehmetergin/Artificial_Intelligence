@@ -14,7 +14,7 @@
 
 <p>7.<a href="https://github.com/fatihmehmetergin/Artificial_Intelligence/blob/master/Market_Optimisation/Market_Basket.ipynb">Market Optimisation (Apriori Algorithm example) </a></p>
 
-<p>7.<a href="https://github.com/fatihmehmetergin/Artificial_Intelligence/blob/master/Yapay_Sinir_Agi/YapaySinirAgi.ipynb"> Yapay Sinir Ağı(YSA)+(Artificial Neural Networks+StandardScaler)</a></p>
+<p>8.<a href="https://github.com/fatihmehmetergin/Artificial_Intelligence/blob/master/Yapay_Sinir_Agi/YapaySinirAgi.ipynb"> Yapay Sinir Ağı(YSA)+(Artificial Neural Networks+StandardScaler)</a></p>
 
 
 
